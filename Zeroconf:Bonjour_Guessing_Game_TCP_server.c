@@ -9,9 +9,7 @@
 //  ||           Sidharth Prabhakaran    prabhs2@rpi.edu||
 //  ******************************************************
 //
-//  1. Server Code (Game) interated by Chandan Troughia
-//  2. DNSService Discovery and Registration done by Sidharth Prabhakaran
-//  3. Error checking done by both.
+//  
 //
 // Incorporated sample code from the book --> the definitive guide / Daniel Steinberg, Stuart Cheshire.
 // Simple example (single event source only)
